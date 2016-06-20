@@ -20,7 +20,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 ```
 git clone https://github.com/bostonhuman/feed-reader-testing.git
 ```
-* Open `feed-reader-testing` directory.
+* Open `feed-reader-testing` repository.
 * Open `index.html` with your browser.
 * There should be `8 specs, 0 failures` at the bottom of the html page.
 
